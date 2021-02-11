@@ -1,0 +1,12 @@
+main: me.steven1027.shop.Shop
+name: Shop
+version: 1.0
+api-version: 1.16
+authors: [Steven1027, Goosec]
+depend: [Vault]
+description: Simple shop plugin utilizing Vault Economy
+
+commands:
+  shop:
+    description: View the shop
+    usage: /<command>
